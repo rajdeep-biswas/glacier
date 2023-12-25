@@ -11,7 +11,8 @@ In the future Mainline and Slack can be put into separate parent folders, but as
 `BGM`  
 `Processed Audio`  
 `VR Capture`  
-The names are pretty self explanatory.
+
+The names are pretty self explanatory. An empty folder structure is stored within `_template` for easy copy-paste-rename sped-up process.  
 
 The filenames under these directories are not too strict, but so far `1.wav` under `Audio Takes` and `takeone.wav` under `Processed Audio` has been making sense to me.  
 Rest of the two folders can contain native filenames (such as music title for `BGM` and timestamped video capture under `VR Capture`), these feel intuitive.  

@@ -23,7 +23,9 @@ Rest of the two folders can contain native filenames (such as music title for `B
 
 #### As of right now I am not saving the following at all -  
 1. The Audacity projects (in the future, they can go under an `Audacity Saves` folder.  
-2. The FL Studio projects (`FL Studio Saves`, likewise).  
+2. The FL Studio projects (`FL Studio Saves`, likewise).
+
+The `_template` folder structure needs to be updated if I find myself using any of the above (or more) folders frequently over time.  
 
 FL Studio Settings for each video will be stored in each project file, such as `1.md` will have the notes from the first video.  
 For elegance, I have put up mainline and slack folder structure into GitHub already.  

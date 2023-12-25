@@ -29,3 +29,7 @@ The `_template` folder structure needs to be updated if I find myself using any 
 
 FL Studio Settings for each video will be stored in each project file, such as `1.md` will have the notes from the first video.  
 For elegance, I have put up mainline and slack folder structure into GitHub already.  
+
+## Standard process for each project -
+1. Document into respective .md file while working. Refer to any previous .md file if you're using the same FL Studio Settings, etc.
+2. Time keeping. Mark when starting, taking healthy breaks, and getting back to work at what time.  

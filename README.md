@@ -19,4 +19,4 @@ Rest of the two folders can contain native filenames (such as music title for `B
 As of right now I am not saving `.prproj` files in these directories, or saving the Audacity projects at all (in the future, they can go under an `Audacity Saves` folder. Also the video exports are done to a default folder for now which I have shortcut'd to the desktop `Premiere Exports.lnk`.  
 
 FL Studio Settings for each video will be stored in each project file, such as `1.md` will have the notes from the first video.  
-For elegance, I might put up some folder structure into GitHub much sooner than in the Windows folder.  
+For elegance, I have put up mainline and slack folder structure into GitHub already.  
